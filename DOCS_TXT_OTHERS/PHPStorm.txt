@@ -1,0 +1,61 @@
+CTRL + W				Select successively increasing code blocks.
+CTRL + E 				Recent files toggle between recently used files.
+CTRL + N 				(Navigate | Class) Search class Navigate to class.
+CTRL + SHIFT + N			(Navigate | File) Open anyfile in your project.
+CTRL + F12                              Elements class.[*]
+CTRL + / 				Comment/uncomment a block of code.
+
+CTRL + B				Go to the class declaration.
+CTRL + Click 				Go to the class declaration.
+
+CTRL + ALT + B				Go to the class declaration forward.
+CTRL + ALT + Click 			Go to the class declaration forward.
+
+
+
+
+CTRL + R 				Search and replace.
+
+CTRL + ALT + L 				Reformat code.
+CTRL + SHIFT + ENTER			Complete statement.[*]
+CTRL + J				Insert live template.
+
+=========================================================================================================================
+CTRL + SHIFT + I			(View | Quick Definition) to preview the definition or content of the symbol at 
+					the caret, without opening it in a separate editor tab.
+
+CTRL + ALT + U				To open a UML class diagram in a popup window.[*]
+
+=========================================================================================================================
+ALT + ENTER				Show intention actions and quick-fixes.
+
+
+CTRL + SHIFT + NumPad+/-		Expand/collapse code all class.
+CTRL + NumPad+/- 			Expand/collapse code block.
+
+
+CUSTOM
+=========================================================================================================================
+o 					OBSOLETED	//OBSOLETED :: By enunezp 
+td 					TODO 		//TODO review [30/08/2024 enunezp]
+e					VAR_DUMP	die('Dumps information :: [By 3ul3r] </br> FILE: ' . __FILE__ .  ' </br>  LINEA: ' . __LINE__ . '  </br></br>DATA: <pre>' . print_r($_VAR_DUMP_CUSTOM, true) . '</pre>');
+=========================================================================================================================
+You can view the list of all usages of a class, method or variable across the whole project, and quickly navigate to the 
+selected item.
+Place the caret at a symbol and press   Ctrl   Alt   F7   (Edit | Find Usages | Show Usages).
+To jump to a usage, select it from the list and press   Enter  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+c:\Projects\SandBox>mkdir Guzzle
+c:\Projects\SandBox>cd Guzzle
+c:\Projects\SandBox\Guzzle>php c:\composer\composer.phar require guzzlehttp/guzzle

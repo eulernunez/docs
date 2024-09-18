@@ -1,0 +1,154 @@
+yarn install
+yarn serve
+yarn cache clean
+
+==========================================================================================================================================================================================
+
+INSERT INTO acc_upload (name, description, filename, uniqid, created_at, report_form_id) VALUES 
+('EDIT', 'Staff propio', 'Captura de pantalla 2024-06-03 163642.png', 'CompartidoTemporal\', '2024-06-03 17:41:29', '114')
+
+==========================================================================================================================================================================================
+
+dev_sandbox_thechildren
+
+==========================================================================================================================================================================================
+
+$mimetype = mime_content_type($item['url']);
+$append_images .= '<br><img src="data:'.$mimetype.';base64,' . 
+                        base64_encode(file_get_contents($item['url'])) . 
+                        '" style="width: 267px;"><span style="vertical-align: center; font-size: 0.9em; line-height: 0.9; font-weight: normal">' . 
+                        $item['description'] . 
+                        '</span><p style="vertical-align: center; color: #ffffff"><b>&nbsp;</b></p><br>';
+
+
+replace(c.proposed_corrective_actions,'\n','<br/>') AS description,
+
+$headers = [];
+        $headers[] = "Content-type: text/html";
+        $headers[] = "From:" . $this->from;
+
+ mail($to, $subject, $body, implode("\r\n", $headers));
+
+==========================================================================================================================================================================================
+
+Project[fake-data]: Z:\users\enunezp\mch-be-repo\fake-data
+							BeMch.php
+							BeMch_03042024.php
+							BeMch_12062024.php
+
+Project[mch-local][mch]: C:\Projects\mch-fe-repo\branches\mch-local
+								\public\newfecfg.js
+								\src\common\config.js
+
+Project[mch-ext][mch]: C:\Projects\mch-fe-repo\branches\mch-ext
+								\public\newfecfg.js
+								\src\common\config.js
+
+Project[SandBox]: C:\Projects\SandBox
+					\Open
+					\PhpUnit
+					\Timer
+
+==========================================================================================================================================================================================
+
+php vendor/phpunit/phpunit/phpunit
+php c:\composer\composer.phar -v
+
+==========================================================================================================================================================================================
+
+Reverse Engineer
+
+
+Forward Engineer
+MySQL Workbench provides capabilities to forward engineering physical database designs. A visual data model can be transformed into a physical database on a target MySQL Server by
+executing the forward engineering wizard.
+
+==========================================================================================================================================================================================
+
+DB_HOST=192.168.6.102
+DB_PORT=3306
+DB_NAME=dev_thechildren
+DB_USER=developer
+DB_PASSWORD=d3v3l0p3r
+
+==========================================================================================================================================================================================
+
+SQL
+
+replace(c.proposed_corrective_actions,'\n','<br/>') AS description,
+
+==========================================================================================================================================================================================
+
+GIT
+
+$ git config --global --add safe.directory //192.168.6.102/php81/users/enunezp/skpm-be/branches/skeleton
+$ git config --list --global
+$ ssh -T git@192.168.6.109
+
+git config --global --edit
+
+
+GIT CMD
+C:\Users\enunezp\.ssh>ssh -T git@192.168.6.109 info -ld
+hello enunezp, this is git@vm-git running gitolite3 3.6.12-1 (Debian) on git 2.39.2
+
+ R W    apiservice      Unnamed repository; edit this file 'description' to name the repository.
+ R W    learngit        Unnamed repository; edit this file 'description' to name the repository.
+ R W    sandbox         sandbox - git repository for test.
+ R W    test            Unnamed repository; edit this file 'description' to name the repository.
+
+$ git push origin start
+Everything up-to-date
+
+$ git pull origin start
+From 192.168.6.109:skpm-be
+ * branch            start      -> FETCH_HEAD
+Already up to date.
+
+$ git remote -v
+origin  git@192.168.6.109:skpm-be (fetch)
+origin  git@192.168.6.109:skpm-be (push)
+
+git clone --progress --branch start -v "git@192.168.6.109:skpm-be" "test"
+git clone --progress --branch start -v "git@192.168.6.109:skpm-be" "test"
+
+
+$ git reset HEAD~1
+# Remove the most recent commit
+# Commit again!
+
+git branch
+git branch -r (remote branch)
+
+
+==========================================================================================================================================================================================
+
+$ ls -al ~/.ssh
+$ ssh-keygen -t ed25519 -C "eulernunez@gmail.com"
+$ clip < ~/.ssh/id_ed25519.pub
+
+$ ssh -T git@github.com
+
+GitHub
+
+whitewntaa1
+passphrase: euler
+
+Username: eulernunez
+
+==========================================================================================================================================================================================
+
+mkdir <directory working>
+
+git init
+$ git remote add origin https://github.com/eulernunez/gh.git
+$ git remote add origin https://github.com/eulernunez/docs.git
+$ git pull origin main
+
+==========================================================================================================================================================================================
+
+
+
+
+
+

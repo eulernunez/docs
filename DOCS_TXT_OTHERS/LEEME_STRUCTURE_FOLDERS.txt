@@ -1,0 +1,20 @@
+C:\Documents\Development
+			\OTHERS
+			\SQL
+			\docs
+				\DOCS_TXT_OTHERS
+				\PERSONAL
+
+C:\Projects\mch-fe-repo\branches
+				\mch-ext
+				\mch-local
+
+	    \openapi-repo
+	    \SandBox
+
+C:\composer\composer.phar
+
+C:\php
+	
+=====================================================================================================================================================
+
