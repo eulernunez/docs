@@ -121,6 +121,9 @@ git branch
 git branch -r (remote branch)
 
 
+$ git commit --amend -m "SKPDM set up config"
+$ git push --force-with-lease origin start
+
 ==========================================================================================================================================================================================
 
 $ ls -al ~/.ssh
