@@ -1,3 +1,54 @@
+TAP :: Incident
+============================
+
+//TODO review [20/09/2024 enunezp]
+//            if ($item["status"] == 7 && $item["scheduled"] == 1 && $item["leadid"] == $_SESSION["user"]["id"] ) {
+            if ($item["status"] == 7 && $item["scheduled"] == 1  ) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 BASICS SENTENCES
 
 What are you doing on the weekend?
