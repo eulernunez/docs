@@ -1,9 +1,9 @@
 C:\Documents\Development
 			\OTHERS
-			\SQL
+			\PERSONAL
 			\docs
 				\DOCS_TXT_OTHERS
-				\PERSONAL
+				\SQL
 
 C:\Projects\mch-fe-repo\branches
 				\mch-ext
