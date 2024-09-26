@@ -1,0 +1,15 @@
+METODOLOGIA
+====================
+
+
+En la fase de planificación de un proyecto digital, las especificaciones funcionales explican lo que hará el producto que se va a desarrollar, mientras
+que las especificaciones técnicas detallan cómo se hará, con qué tecnologías, qué tipo de arquitectura y qué equipamiento.
+
+
+Especificación Funcional
+[Documento de especificaciones funcionales]
+
+ FSD (Functional Specification Document).
+
+
+El diagrama FAST (cuyas siglas en inglés significan function analysis system technique, o técnica de análisis funcional en español)
