@@ -1,11 +1,20 @@
 yarn install
 yarn serve
-yarn cache clean
+yarn cache clean --force
 
 ==========================================================================================================================================================================================
 
 INSERT INTO acc_upload (name, description, filename, uniqid, created_at, report_form_id) VALUES 
 ('EDIT', 'Staff propio', 'Captura de pantalla 2024-06-03 163642.png', 'CompartidoTemporal\', '2024-06-03 17:41:29', '114')
+
+
+
+//        $this->sql = "SELECT AUTO_INCREMENT FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = '" . $this->table . "'";
+        $this->sql = "SELECT AUTO_INCREMENT FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = '" . CONFIG::get('dsn')['database'] . "' AND TABLE_NAME = '" . $this->table . "'";
+
+
+
+
 
 ==========================================================================================================================================================================================
 
