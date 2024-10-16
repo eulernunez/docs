@@ -1,0 +1,48 @@
+-- TRUNCATE TABLE acc_notification_form
+-- TRUNCATE TABLE acc_lesson_learned
+-- TRUNCATE TABLE acc_report_form
+-- TRUNCATE TABLE acc_upload
+-- TRUNCATE TABLE acc_report_form_approvers_reviewers
+-- TRUNCATE TABLE acc_notification_form_approvers_reviewers
+-- TRUNCATE TABLE acc_report_section_approval_intro
+-- TRUNCATE TABLE acc_notification_section_incident_details
+-- TRUNCATE TABLE acc_invlead
+-- TRUNCATE TABLE acc_report_section_where_and_what_case_description
+-- TRUNCATE TABLE acc_notification_section_employment_information
+-- TRUNCATE TABLE acc_report_section_consequence_env_social_and_cultural_intro
+-- TRUNCATE TABLE acc_accidents_notification_form_item
+-- TRUNCATE TABLE acc_log_report_section_loss_potential_intro
+-- TRUNCATE TABLE acc_notificacion_comments
+
+-- TRUNCATE TABLE acc_report_section_loss_potential_intro
+-- TRUNCATE TABLE acc_report_section_where_and_what_intro
+-- TRUNCATE TABLE acc_report_section_where_and_what_investigation_information
+-- TRUNCATE TABLE acc_report_item_general_info_case_type
+-- TRUNCATE TABLE acc_report_section_actions_intro
+-- TRUNCATE TABLE acc_report_section_consequence_fire_or_explosion_intro
+-- TRUNCATE TABLE acc_report_section_consequence_occupational_illness_intro
+-- TRUNCATE TABLE acc_report_section_consequence_damage_intro
+-- TRUNCATE TABLE acc_report_section_consequence_reputation_intro
+-- TRUNCATE TABLE acc_report_section_final_classification_intro
+-- TRUNCATE TABLE acc_report_section_general_classification_intro
+-- TRUNCATE TABLE acc_report_section_general_info_incident_type
+-- TRUNCATE TABLE acc_report_section_general_info_in_charge_of_case
+-- TRUNCATE TABLE acc_report_section_general_info_report_type
+-- TRUNCATE TABLE acc_report_form_item
+-- TRUNCATE TABLE acc_report_form_item_general_info_case_type
+-- TRUNCATE TABLE acc_report_form_item_hse
+-- TRUNCATE TABLE acc_report_root
+-- TRUNCATE TABLE acc_report_comments
+-- TRUNCATE TABLE acc_report_section_actions_logs
+-- TRUNCATE TABLE acc_report_staff
+-- TRUNCATE TABLE acc_notification_staff
+-- TRUNCATE TABLE acc_notification_section_what_is_the_status_of_the_incident
+-- TRUNCATE TABLE acc_notification_section_assistance_provided
+-- TRUNCATE TABLE acc_notification_form_item
+-- TRUNCATE TABLE acc_cookies
+-- TRUNCATE TABLE acc_permissions
+
+-- DELETE FROM gat_observations WHERE source_id = 32;
+-- DELETE FROM gat_observations WHERE report_id >= 1;
+
+-- REVIEW email_notification_addresses

@@ -1,0 +1,5 @@
+TRUNCATE TABLE mch_supra_processing_tasks;
+TRUNCATE TABLE mch_supra_processing_task_draweds;
+TRUNCATE TABLE mch_supra_processing_task_draws;
+TRUNCATE TABLE mch_supra_processing_task_items;
+TRUNCATE TABLE mch_supra_processing_task_pictures;
