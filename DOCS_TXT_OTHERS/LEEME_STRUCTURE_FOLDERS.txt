@@ -4,6 +4,8 @@ C:\Documents\Development
 			\docs
 				\DOCS_TXT_OTHERS
 				\SQL
+                                 bookmarks_16_10_24
+				 README
 
 C:\Projects\mch-fe-repo\branches
 				\mch-ext
@@ -11,6 +13,9 @@ C:\Projects\mch-fe-repo\branches
 
 	    \openapi-repo
 	    \SandBox
+	    \skmp-fe\branches
+			     \local
+                             \start2		
 
 C:\composer\composer.phar
 
