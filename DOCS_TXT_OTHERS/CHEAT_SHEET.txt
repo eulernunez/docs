@@ -4,8 +4,6 @@ yarn cache clean --force
 
 ==========================================================================================================================================================================================
 
-INSERT INTO acc_upload (name, description, filename, uniqid, created_at, report_form_id) VALUES 
-('EDIT', 'Staff propio', 'Captura de pantalla 2024-06-03 163642.png', 'CompartidoTemporal\', '2024-06-03 17:41:29', '114')
 
 
 
