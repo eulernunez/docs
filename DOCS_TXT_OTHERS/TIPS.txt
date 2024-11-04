@@ -10,7 +10,9 @@ TAP :: Incident
 
 
 
-Equipment: Retractors & Spreaders
+
+
+
 
 
 
@@ -59,3 +61,7 @@ Where do you go on Saturday mornings?
 
 
 Would've been better if we had gone for the wedding
+
+
+
+i had a lot of work after we moved into a bigger office
