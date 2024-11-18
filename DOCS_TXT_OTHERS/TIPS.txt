@@ -16,6 +16,9 @@ TAP :: Incident
 
 
 
+http://localhost:8080/patients/patients/2217f8e6-3b39-43cd-855b-d3d87e8d7ab0/view/true
+http://localhost:8080/patients/patients/caf91ebb-4b63-41c4-b78c-212a5557a123/view/true
+
 
 
 
