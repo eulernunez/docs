@@ -7,23 +7,29 @@ TAP :: Incident
 
 
 
+TAP :: Waste
+============================
+
+//TODO review [19/11/2024 enunezp]
+// FAKE?????
+// REAL app/c/environmental_emissions/Action/a_ajax_content_air_quality_monitoring_location.php ALL in ONE [groundwater_sampling, wastewater_sampling, ambient_air_quality_monitoring, cems_systems_reading_emissions]
 
 
 
+1)
+FileHandleController::downloadFile
 
+//OLD
+$file_path = $file_data['file_path'];
+//NEW
+$file_path = $file_data['real_path'];
 
+2)
+config_dev.env
+//OLD
 
-
-
-
-http://localhost:8080/patients/patients/2217f8e6-3b39-43cd-855b-d3d87e8d7ab0/view/true
-http://localhost:8080/patients/patients/caf91ebb-4b63-41c4-b78c-212a5557a123/view/true
-
-
-
-
-
-
+//NEW
+APP_URL_DOWNLOAD=http://dev81.globalholdings.es/users/enunezp/skpm-be/branches/initial
 
 
 

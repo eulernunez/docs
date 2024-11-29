@@ -3,3 +3,22 @@ c:\Projects\SandBox>cd Guzzle
 c:\Projects\SandBox\Guzzle>php c:\composer\composer.phar require guzzlehttp/guzzle
 
 
+
+
+php -r "copy('https://getcomposer.org/composer-stable.phar', 'composer.phar');"
+php -r "if (hash_file('sha256', 'composer.phar') === '8323b4105c6e166d47c9db93209370083f9e421743636e108c37d8c1126386ef') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+
+
+php composer.phar diagnose
+
+php composer.phar self-update --update-keys
+
+
+$ composer self-update --update-keys
+
+Open https://composer.github.io/pubkeys.html to find the latest keys
+Enter Dev / Snapshot Public Key (including lines with -----): 
+[copy and paste the dev pub key]
+
+Enter Tags Public Key (including lines with -----):
+[copy and paste the tags pub key]
